@@ -1,4 +1,6 @@
-Hello, my name is Arron.
+Hello, 
+my name is Arron.  
+
 I work for a large multinational called Air Liquide which specializes in gases.  
 I am a Full Stack Developer currently finishing my Diploma in Full Stack Software Development with Code Institute.
 

@@ -2,15 +2,15 @@ Hello,
 my name is Arron.  
 
 I work for a large multinational called Air Liquide which specializes in gases.  
-I am a Full Stack Developer currently finishing my Diploma in Full Stack Software Development with Code Institute.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ArronBeale&theme=dark&show_icons=true&count_private=true)<br>  
+I am a Full Stack Developer currently finishing my Diploma in Full Stack Software Development with Code Institute.  
 
 Visit my LinkedIn and connect with me:  
 <a href="https://www.linkedin.com/in/arronbeale/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   (CTRL+click to open in new tab)<br>  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ArronBeale&theme=dark&show_icons=true&count_private=true)<br>  
 
   ---
 

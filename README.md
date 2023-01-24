@@ -58,8 +58,6 @@ Visit my LinkedIn and connect with me:
 ![Foo](https://media.eu.badgr.com/uploads/badges/assertion-zwR2dw9uQOehN3b8YVndLA.png)
 
 This badge is awarded to participants of Code Institute's September 2022 Hybrid Hackathon, themed 'Closing the Gender Gap in Tech Organisations' in collaboration with SODA Social/Trust in SODA and Deloitte.  
-[Deployed Site](https://witch-kodefox.herokuapp.com/)  
-(Note: Ctrl + click to open in a new tab)  
 
 
 

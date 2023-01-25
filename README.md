@@ -1,8 +1,8 @@
 Hello, 
 my name is Arron.  
 
-I work for a large multinational called Air Liquide which specializes in gases.  
-I am a Full Stack Developer currently finishing my Diploma in Full Stack Software Development with Code Institute.  
+I am a Full Stack Developer with a Diploma in Full Stack Software Development from Code Institute. 
+Currently I work for a large multinational called Air Liquide which specializes in gases.   
 
 Visit my LinkedIn and connect with me:  
 <a href="https://www.linkedin.com/in/arronbeale/">

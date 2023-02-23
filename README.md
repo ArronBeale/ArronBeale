@@ -53,7 +53,12 @@ Visit my LinkedIn and connect with me:
 
 ### Design | Wireframes
 
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)  
+
+### Business Intelligence  
+
+![Power BI](https://img.shields.io/badge/powerbi%20-%231E2E3B.svg?&style=for-the-badge&logo=powerbi&logoColor=21ACE2)
+![Google Data Studio](https://img.shields.io/badge/googledatastudio%20-%231E2E3B.svg?&style=for-the-badge&logo=googledatastudio&logoColor=21ACE2)
 
 [September 2022 Hybrid Hackathon: Participant ](https://eu.badgr.com/public/assertions/zwR2dw9uQOehN3b8YVndLA)
 ![Foo](https://media.eu.badgr.com/uploads/badges/assertion-zwR2dw9uQOehN3b8YVndLA.png)

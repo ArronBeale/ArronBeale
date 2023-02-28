@@ -54,6 +54,7 @@ Visit my LinkedIn and connect with me:
 ### Design | Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)  
+![Figma](https://img.shields.io/badge/figma%20-%23A60000.svg?&style=for-the-badge&logo=figma&logoColor=FFFFFF)  
 
 ### Business Intelligence  
 

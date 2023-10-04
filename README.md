@@ -2,7 +2,7 @@ Hello,
 my name is Arron.  
 
 I am a Full Stack Developer with a Diploma in Full Stack Software Development from Code Institute.  
-Currently I work for a large multinational called Air Liquide which specializes in gases.   
+Currently I am working for [Dazult](https://www.dazult.com/) as a Junior Software Developer.   
 
 Visit my LinkedIn and connect with me:  
 <a href="https://www.linkedin.com/in/arronbeale/">

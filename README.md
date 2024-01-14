@@ -2,7 +2,7 @@ Hello,
 my name is Arron.  
 
 I am a Full Stack Software Developer.  
-Currently I am working for [Dazult](https://www.dazult.com/) as a Junior Software Developer.   
+Currently I am working for [Dazult](https://www.dazult.com/).   
 
 Visit my LinkedIn and connect with me:  
 <a href="https://www.linkedin.com/in/arronbeale/">

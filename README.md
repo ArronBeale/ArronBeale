@@ -66,6 +66,12 @@ Visit my LinkedIn and connect with me:
 ![Power BI](https://img.shields.io/badge/powerbi%20-%231E2E3B.svg?&style=for-the-badge&logo=powerbi&logoColor=21ACE2)
 ![Google Data Studio](https://img.shields.io/badge/googledatastudio%20-%231E2E3B.svg?&style=for-the-badge&logo=googledatastudio&logoColor=21ACE2)
 
+### IDEs/Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Replit	![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+
+
 [September 2022 Hybrid Hackathon: Participant ](https://eu.badgr.com/public/assertions/zwR2dw9uQOehN3b8YVndLA)
 ![Foo](https://media.eu.badgr.com/uploads/badges/assertion-zwR2dw9uQOehN3b8YVndLA.png)
 

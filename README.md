@@ -63,7 +63,7 @@ Visit my LinkedIn and connect with me:
 
 ### Business Intelligence  
 
-![Power BI](https://img.shields.io/badge/powerbi%20-%231E2E3B.svg?&style=for-the-badge&logo=powerbi&logoColor=21ACE2)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Data Studio](https://img.shields.io/badge/googledatastudio%20-%231E2E3B.svg?&style=for-the-badge&logo=googledatastudio&logoColor=21ACE2)
 
 ### IDEs/Editors
@@ -89,6 +89,7 @@ Visit my LinkedIn and connect with me:
 
 ### other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
 
  
 

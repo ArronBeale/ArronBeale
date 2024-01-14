@@ -34,6 +34,7 @@ Visit my LinkedIn and connect with me:
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Version Control | Coding
 
